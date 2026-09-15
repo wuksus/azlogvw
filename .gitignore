@@ -1,0 +1,30 @@
+# Lazarus / Free Pascal build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.compiled
+*.ppu
+*.or
+*.res
+*.bak
+
+# Lazarus IDE files (workspace/state)
+*.lps
+
+# Archives and backups
+*.zip
+*.tar.gz
+*.7z
+
+# Executables (Linux/Windows/macOS) - added specifically for your case
+azlogvw
+
+# Old/legacy extensions
+*.dcu
+*.dcp
+
+backup/
+code/
